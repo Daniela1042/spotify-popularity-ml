@@ -1,6 +1,6 @@
 # Do Som ao Sucesso: Machine Learning aplicado à popularidade musical no Spotify
 
-Projeto de Machine Learning desenvolvido em grupo no âmbito do Mestrado em Sistemas Integrados em Business Intelligence (ISCTE-IUL), 2026, em Python e Jupyter Notebook. O artigo completo está em [`Do_Som_ao_Sucesso_Spotify_ML.pdf`](Do_Som_ao_Sucesso_Spotify_ML.pdf).
+Projeto de Machine Learning desenvolvido em grupo no âmbito do Mestrado em Sistemas Integrados em Business Intelligence (ISCTE-IUL), 2026, em Python e Jupyter Notebook.
 
 ## Pergunta de investigação
 
